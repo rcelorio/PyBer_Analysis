@@ -12,3 +12,6 @@ Determine if there is a correlation between the average fare and the total rides
 * Annotate and apply styling to the chart.
 
 ## Analysis
+![Final Summary DataFrame](analysis/FinalSummaryDF.png)
+
+![Total Fare by City Type](analysis/TotalFaresByCT.png)
