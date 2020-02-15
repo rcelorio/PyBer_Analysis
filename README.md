@@ -17,4 +17,7 @@ Determine if there is a correlation between the average fare and the total rides
 
 Analysis of fares by city type and driver count shows a correlation between city type and average fare. Urban cities have more rides and more drivers, this combination tends to drive down the average fare in urban cities by comparison to suburban and rural cities. Data suggest that areas with less drivers and rides yield a higher average fare and an average fare per driver. While the data suggest this could be due to a longer average distance per ride, further analysis is needed to prove this conclusion. 
 
+### Total Fares by City Type Plot
 ![Total Fare by City Type](analysis/TotalFaresByCT.png)
+
+The plot of total fares by city type over time shows that urban cities are consitently more profitable for the company despite having a lower average fare per driver and per ride. Week over week urban cities generate more than double total fares than suburban cities and more than ten times total fares for rural cities. 
