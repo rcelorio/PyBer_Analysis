@@ -20,4 +20,4 @@ Analysis of fares by city type and driver count shows a correlation between city
 ### Total Fares by City Type Plot
 ![Total Fare by City Type](analysis/TotalFaresByCT.png)
 
-The plot of total fares by city type over time shows that urban cities are consitently more profitable for the company despite having a lower average fare per driver and per ride. Week over week urban cities generate more than double total fares than suburban cities and more than ten times total fares for rural cities. 
+The plot of total fares by city type over time shows that urban cities are consitently more profitable for the company despite having a lower average fare per driver and per ride. Week over week urban cities generate more than double total fares than suburban cities and more than ten times total fares for rural cities. Urban and suburban cities appear to have a more consistent total fares pattern than urban cities. less volatility in total fares could be a factor of lower demand and fewer drivers. Future analysis should explore ride patterns in suburban and rural areas in comparison to urban cities. 
